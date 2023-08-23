@@ -1,0 +1,18 @@
+### VisualStudioCode
+.vscode/
+
+### JetBrains
+
+.idea/
+
+### Go
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+go.work
